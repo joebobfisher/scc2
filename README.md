@@ -1,7 +1,7 @@
-# scc2
-Second Iteration of DISTek's Software Craftsmanship Club.
+# DISTek Software Craftsmanship Club
+Second Iteration of DISTek's Software Craftsmanship Club!
 
-Going through the book _Clean Code_ by Robert C. Martin, and doing programming katas for each chapter!
+Going through the book _Clean Code_ by Robert C. Martin, and doing programming katas for each chapter. 📖
 
 1. Clean Code -- [fizzbuzz](ch1-fizzbuzz.md)
 2. Meaningful Names -- rover
