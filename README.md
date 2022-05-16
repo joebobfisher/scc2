@@ -3,14 +3,14 @@ Second Iteration of DISTek's Software Craftsmanship Club!
 
 Going through the book _Clean Code_ by Robert C. Martin, and doing programming katas for each chapter. 📖
 
-1. Clean Code -- [fizzbuzz](ch1-fizzbuzz.md)
-2. Meaningful Names -- rover
-3. Functions -- rover-obstacles
-4. Comments -- alphabet-cipher
+1. Clean Code
+2. Meaningful Names -- [fizzbuzz](ch2-fizzbuzz.md)
+3. Functions -- [rover](ch3-rover.md)
+4. Comments -- rover-obstacles
 5. Formatting -- rover-refactor
 6. Objects & Data Structures -- passworddb
 7. Error Handling -- password-entry
-8. Boundaries -- rover-cipher
+8. Boundaries -- rover-password
 9. Unit Tests -- rover-test
 10. Classes -- rover-refactor2
 11. Systems -- rover-factory
