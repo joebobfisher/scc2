@@ -1,5 +1,5 @@
-DISTek Software Craftsmanship Club 02 - Rover
-=============================================
+DISTek Software Craftsmanship Club 03 - Rover Obstacles
+=======================================================
 
 Coding Kata: [Mars Rover Kata on Katalyst](https://katalyst.codurance.com/mars-rover)
 
