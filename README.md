@@ -7,7 +7,7 @@ Going through the book _Clean Code_ by Robert C. Martin, and doing programming k
 2. Meaningful Names -- [fizzbuzz](ch2-fizzbuzz.md)
 3. Functions -- [rover](ch3-rover.md)
 4. Comments -- [rover-obstacles](ch4-rover-obstacles.md)
-5. Formatting -- rover-refactor
+5. Formatting -- [rover-refactor](ch5-rover-refactor.md)
 6. Objects & Data Structures -- passworddb
 7. Error Handling -- password-entry
 8. Boundaries -- rover-password

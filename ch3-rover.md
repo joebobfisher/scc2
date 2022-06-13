@@ -1,7 +1,8 @@
-DISTek Software Craftsmanship Club 02 - Rover
+DISTek Software Craftsmanship Club 03 - Rover
 =============================================
 
 Coding Kata: [Simple Mars Rover Kata on Katalyst](https://katalyst.codurance.com/simple-mars-rover)
+
 
 _Clean Code_ Chapter 3: Functions
 ---------------------------------
@@ -78,6 +79,7 @@ _Clean Code_ Chapter 3: Functions
 
 ### Don't forget what you've already learned!
 * [_Clean Code_ Chapter 2: "Meaningful Names"](../rover/README.md)
+
 
 Rover Kata
 ----------
