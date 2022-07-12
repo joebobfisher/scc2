@@ -1,9 +1,6 @@
 DISTek Software Craftsmanship Club 06 - Password DB
 ===================================================
 
-Coding Kata: [Mars Rover Kata on Katalyst](https://katalyst.codurance.com/mars-rover)
-
-
 _Clean Code_ Chapter 6: Objects and Data Structures
 ---------------------------------------------------
 * Data abstraction
