@@ -11,7 +11,7 @@ Going through the book _Clean Code_ by Robert C. Martin, and doing programming k
 6. Objects & Data Structures -- [passworddb](ch6-passworddb.md)
 7. Error Handling -- [password-entry](ch7-password-entry.md)
 8. Boundaries -- [rover-password](ch8-rover-password.md)
-9. Unit Tests -- rover-test
+9. Unit Tests -- [bowling](ch9-bowling.md)
 10. Classes -- rover-refactor2
 11. Systems -- rover-factory
 12. Emergence -- kprimes
