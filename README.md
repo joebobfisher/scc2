@@ -12,8 +12,8 @@ Going through the book _Clean Code_ by Robert C. Martin, and doing programming k
 7. Error Handling -- [password-entry](ch7-password-entry.md)
 8. Boundaries -- [rover-password](ch8-rover-password.md)
 9. Unit Tests -- [bowling](ch9-bowling.md)
-10. Classes -- rover-refactor2
-11. Systems -- rover-factory
+10. Classes -- (No kata... 😭)
+11. Systems -- [alphabet-cipher](ch11-alphabet-cipher.md)
 12. Emergence -- kprimes
 13. Concurrency -- kprimes-concurrent
 14. Successive Refinement -- arg-parser
