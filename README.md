@@ -14,7 +14,7 @@ Going through the book _Clean Code_ by Robert C. Martin, and doing programming k
 9. Unit Tests -- [bowling](ch9-bowling.md)
 10. Classes -- (No kata... 😭)
 11. Systems -- [alphabet-cipher](ch11-alphabet-cipher.md)
-12. Emergence -- kprimes
+12. Emergence -- [kprimes](ch12-kprimes.md)
 13. Concurrency -- kprimes-concurrent
 14. Successive Refinement -- arg-parser
 15. JUnit Internals
