@@ -15,7 +15,7 @@ Going through the book _Clean Code_ by Robert C. Martin, and doing programming k
 10. Classes -- (No kata... 😭)
 11. Systems -- [alphabet-cipher](ch11-alphabet-cipher.md)
 12. Emergence -- [kprimes](ch12-kprimes.md)
-13. Concurrency -- kprimes-concurrent
+13. Concurrency -- [kprimes-concurrent](ch13-kprimes-concurrent.md)
 14. Successive Refinement -- arg-parser
 15. JUnit Internals
 16. Refactoring `SerialDate`
