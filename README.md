@@ -19,4 +19,4 @@ Going through the book _Clean Code_ by Robert C. Martin, and doing programming k
 14. Successive Refinement -- [arg-parser](ch14-arg-parser.md)
 15. JUnit Internals
 16. Refactoring `SerialDate`
-17. Smells & Heuristics -- rover-refactor3
+17. Smells & Heuristics -- [gilded-rose](ch17-gilded-rose.md)
